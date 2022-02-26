@@ -106,9 +106,3 @@ Manual testing is the process of checking your application or code from the user
 
 Automated testing, on the other hand, is writing code that checks to see if other code works. Contrary to manual testing, the specifications remain constant from test to test. The biggest advantage is being able to test many things much faster.
 
-
-
-
-
-
-***I didn't have time to read the entire articles especially the last one due to family circumstances***
