@@ -1,12 +1,13 @@
-# class 12 
+# class 12
 
-#  Socket.io
+# Socket.io
 
 Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
 
 ![](./bidirectional-communication2.png)
 
 ### Real-time Applications
+
 A real-time application (RTA) is an application that functions within a period that the user senses as immediate or current.
 
 Some examples of real-time applications are :
@@ -20,6 +21,7 @@ Some examples of real-time applications are :
 - Online Gaming − Games like Counter Strike, Call of Duty, etc., are also some examples of real-time applications.
 
 ## Why Socket.IO?
+
 Writing a real-time application with popular web applications stacks like LAMP (PHP) has traditionally been very hard. It involves polling the server for changes, keeping track of timestamps, and it is a lot slower than it should be.
 
 Sockets have traditionally been the solution around which most real-time systems are architected, providing a bi-directional communication channel between a client and a server. This means that the server can push messages to clients. Whenever an event occurs, the idea is that the server will get it and push it to the concerned connected clients.
@@ -36,8 +38,8 @@ WebSocket is the communication Protocol that provides bidirectional communicatio
 
 Socket.IO is a library that enables real-time and full-duplex communication between the Client and the Web servers. It uses the WebSocket protocol to provide the interface. Generally, it is divided into two parts; both WebSocket vs Socket.io are event-driven libraries.
 
-
 ### Key features of Socket.IO
+
 - It helps in broadcasting to multiple sockets at a time and handles the connection transparently.
 - It works on all platform, server or device, ensuring equality, reliability, and speed.
 - It automatically upgrades the requirement to WebSocket if needed.
@@ -47,6 +49,7 @@ Socket.IO is a library that enables real-time and full-duplex communication betw
 - There are some Client based reserved events like Connect, connect- error, connect-timeout and Reconnect etc.
 
 ## Question
+
 1. **What is the benefit of transforming data into packets?**
 
 enable new innovations, services, and business opportunities.
@@ -67,12 +70,9 @@ You cannot use a single socket to connect to multiple servers. You must create a
 
 You can use the same socket for whatever you want, as long as your protocol handles it.
 
-
-
 ## Term
 
-
-O**bserver Pattern** a subscription model in which objects subscribe to an event and get notified when the event occurs.
+**observer Pattern** a subscription model in which objects subscribe to an event and get notified when the event occurs.
 
 **Listener** a procedure in JavaScript that waits for an event to occur.
 
@@ -80,17 +80,17 @@ O**bserver Pattern** a subscription model in which objects subscribe to an event
 
 **Event Driven Programming**Everything starts by following an event. The event could be the DOM is loaded, or an asynchronous request that finishes fetching, or a user clicking an element or scrolling the page, or the user types on the keyboard.
 
-**Event Loop**	responsible for executing the code, collecting and processing events, and executing queued sub-tasks
+**Event Loop** responsible for executing the code, collecting and processing events, and executing queued sub-tasks
 
-**Event Queue**	responsible for sending new functions to the stack for processing.
+**Event Queue** responsible for sending new functions to the stack for processing.
 
-**Call Stack**	a mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions
+**Call Stack** a mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions
 
-**Emit**	on() function that allows one or more functions to be attached to named events emitted by the object.
+**Emit** on() function that allows one or more functions to be attached to named events emitted by the object.
 
-**Raise**	throws a user-defined exception
-Trigger	The trigger() method triggers the specified event and the default behavior of an event (like form submission) for the selected elements.
+**Raise** throws a user-defined exception
+Trigger The trigger() method triggers the specified event and the default behavior of an event (like form submission) for the selected elements.
 
-**Subscribe**	observable of interest
+**Subscribe** observable of interest
 
-**database**	a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
+**database** a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
