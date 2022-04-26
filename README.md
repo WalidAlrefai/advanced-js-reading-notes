@@ -22,3 +22,4 @@
 | class17     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/DynamoAndLambda.md)|
 | class26     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/ComponentBasedUI.md)|
 | class27     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/hook.md)|
+| class28     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/useEffect.md)|
