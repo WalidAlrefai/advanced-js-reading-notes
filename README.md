@@ -4,7 +4,7 @@
 
 | Classes     | Links |
 | ----------- | ----------- |
-| class02     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes//01-prep-and-tdd.md)|
+| class02     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/01-prep-and-tdd.md)|
 | class03     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/REDME_Class03.md)|
 | class04     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/README_Class04.md)|
 | class05     |[Click Here](https://github.com/WalidAlrefai/advanced-js-reading-notes/blob/main/Linked_List.md)|
