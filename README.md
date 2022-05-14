@@ -25,3 +25,5 @@
 | class28     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/useEffect)|
 | class29     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/useReducer)|
 | class30     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/HashTable)|
+| class31     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/contextApi)|
+
