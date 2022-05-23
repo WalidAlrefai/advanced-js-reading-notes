@@ -28,6 +28,7 @@
 | class31     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/contextApi)|
 | class32     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/ContextAPI-Behaviors)|
 | class33     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/ROLE-BASED)|
+| class34     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/API-Integration)|
 
 
 
