@@ -31,6 +31,8 @@
 | class34     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/API-Integration)|
 | class35     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/Graph)|
 | class36     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/REDUX)|
+| class37     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/CombinedReducers)|
+
 
 
 
