@@ -36,6 +36,8 @@
 | class39     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/Redux-AdditionalTopics)|
 | class40     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/React-Native)|
 | class41     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/Ethics)|
+| class42     |[Click Here](https://walidalrefai.github.io/advanced-js-reading-notes/OSS-Contributions)|
+
 
 
 
